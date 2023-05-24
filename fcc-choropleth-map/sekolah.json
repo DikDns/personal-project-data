@@ -1,17 +1,5 @@
 [
   {
-    "provinsi": "MIMPI",
-    "jumlahSMANegeri": 395,
-    "jumlahSMASwasta": 134,
-    "jumlahSekolah": 529,
-    "jumlahGuruSMANegeri": 11995,
-    "jumlahGuruSMASwasta": 1652,
-    "jumlahGuruSMA": 1000,
-    "jumlahMuridSMANegeri": 1,
-    "jumlahMuridSMASwasta": 17922,
-    "jumlahMuridSMA": 1000
-  },
-  {
     "provinsi": "Aceh",
     "jumlahSMANegeri": 395,
     "jumlahSMASwasta": 134,
